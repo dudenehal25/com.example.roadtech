@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "947787769493",
+    "project_id": "roadtech-ba2ca",
+    "storage_bucket": "roadtech-ba2ca.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:947787769493:android:83680d2d1fd9ab8e4b1d9c",
+        "android_client_info": {
+          "package_name": "com.example.roadtech"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "947787769493-hm6qrkvmhfm92badea7te84mpmmddi24.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.roadtech",
+            "certificate_hash": "2117331c57c4b8e0cd8c688562dcf48dd94b8aae"
+          }
+        },
+        {
+          "client_id": "947787769493-gjh3dfn94cjc1l455engu2mcg00dla7r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1LrrF3C1axJytcUaMKQSFprIDkZg1Cpo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "947787769493-gjh3dfn94cjc1l455engu2mcg00dla7r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
